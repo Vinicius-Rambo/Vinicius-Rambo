@@ -15,4 +15,4 @@ Atualmente, busco expandir meus conhecimentos e aplicá-los de forma prática em
 ## Ferramentas e Tecnologias
 - **Sistemas Operacionais:** Linux e Windows  
 - **Banco de Dados:** PostgreSQL (em aprendizado)  
-- **Linguagens em aprendizado:** Python, Java, C, PHP e Shell Script  
+- **Linguagens em aprendizado:** Python, Java, C, PHP, JavaScript e Shell Script  
