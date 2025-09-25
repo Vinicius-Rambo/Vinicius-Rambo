@@ -1,12 +1,12 @@
-# Olá, eu sou o Vinicius
+# Olá, eu sou o Vinícius
 
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFPR.  
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na IFPR.  
 Atualmente, busco expandir meus conhecimentos e aplicá-los de forma prática em projetos e estudos.
 
 ---
 
 ## Áreas de Interesse
-- Desenvolvimento Backend  
+- Desenvolvimento Backend.
 - Banco de Dados (modelagem, consultas e administração)  
 - Linux e Administração de Sistemas  
 
